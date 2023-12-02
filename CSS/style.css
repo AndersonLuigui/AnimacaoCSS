@@ -111,7 +111,7 @@ footer {
     position: relative;
     text-align: center;
     padding: 3rem;
-    padding-top: 65px;
+    padding-top: 58px;
 }
 
 footer ul {
@@ -142,8 +142,8 @@ footer ul li a {
         margin: 10px 0; 
     }
 
-    body{
+/*     body{
         background-repeat: repeat;
 
-    }
+    } */
 }
